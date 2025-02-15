@@ -5,7 +5,7 @@ I'm a **React Developer** with experience in building scalable, high-performance
 
 ---
 
-## 🚀 Projects  
+## 🚀 Major Projects  
 
 ### 🔹 Athena  
 **Description:** An AI-powered marketing and automation platform integrated with Google APIs. It includes CRM, stock management, AI marketer, automation rules, and a powerful dashboard. The backend is built with Django (Python).  
@@ -92,8 +92,8 @@ I'm a **React Developer** with experience in building scalable, high-performance
 
 ## 📫 Get in Touch  
 - **Portfolio:**   
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **GitHub:** [Your GitHub Profile]  
+- **LinkedIn:** https://www.linkedin.com/in/shajumohanraj/  
+- **GitHub:** https://github.com/shajumohanrajg/  
 - **Email:** shajumohanraj@gmail.com  
 
 ---
