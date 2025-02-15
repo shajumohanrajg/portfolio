@@ -4,10 +4,10 @@ import Image from "next/image";
 
 import { motion } from "framer-motion";
 
-import A2 from "public/images/a2.jpg";
-import A1 from "public/images/a1.jpg";
-import A3 from "public/images/a3.jpg";
-import A4 from "public/images/a4.jpg";
+import A2 from "public/a2.jpg";
+import A1 from "public/a1.jpg";
+import A3 from "public/a3.jpg";
+import A4 from "public/a4.jpg";
 
 export default function About() {
   const images = [
