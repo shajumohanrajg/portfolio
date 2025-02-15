@@ -4,19 +4,22 @@ import Image from "next/image";
 
 import { motion } from "framer-motion";
 
+import A2 from "public/images/a2.jpg";
+import A1 from "public/images/a1.jpg";
+import A3 from "public/images/a3.jpg";
+import A4 from "public/images/a4.jpg";
+
 export default function About() {
   const images = [
-    "/a2.JPG",
-    "/a1.JPG",
-    "/a3.JPG",
-    "/a4.JPG"
+    A2, A1, A3, A4
+
   ];
   return (
     <div>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-10 my-10">
         {images.map((image, index) => (
           <motion.div
-            key={image}
+            key={index}
             initial={{
               opacity: 0,
               y: -50,
